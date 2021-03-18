@@ -1,27 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/static/js/main.10d2618d.chunk.js",
-    "main.js.map": "/static/js/main.10d2618d.chunk.js.map",
+    "main.js": "/static/js/main.2bc9b1e2.chunk.js",
+    "main.js.map": "/static/js/main.2bc9b1e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.554504a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.da3f62cb.chunk.js": "/static/js/2.da3f62cb.chunk.js",
-    "static/js/2.da3f62cb.chunk.js.map": "/static/js/2.da3f62cb.chunk.js.map",
+    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
+    "static/js/2.7f077545.chunk.js": "/static/js/2.7f077545.chunk.js",
+    "static/js/2.7f077545.chunk.js.map": "/static/js/2.7f077545.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9d1b236246239cf47ec15926d9d29499.js": "/precache-manifest.9d1b236246239cf47ec15926d9d29499.js",
+    "precache-manifest.b6f53f2fdaa02ace23284cac3224370d.js": "/precache-manifest.b6f53f2fdaa02ace23284cac3224370d.js",
     "service-worker.js": "/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.da3f62cb.chunk.js.LICENSE.txt": "/static/js/2.da3f62cb.chunk.js.LICENSE.txt",
+    "static/js/2.7f077545.chunk.js.LICENSE.txt": "/static/js/2.7f077545.chunk.js.LICENSE.txt",
     "static/media/cc1.jpeg": "/static/media/cc1.4111f7a7.jpeg",
     "static/media/cc2.jpeg": "/static/media/cc2.a388ffe6.jpeg",
     "static/media/kentgenomebox.jpeg": "/static/media/kentgenomebox.bf0d69fe.jpeg",
-    "static/media/resume.pdf": "/static/media/resume.c7003ffb.pdf",
+    "static/media/orbitron-paper.pdf": "/static/media/orbitron-paper.7abacde0.pdf",
+    "static/media/resume.pdf": "/static/media/resume.0508e1ae.pdf",
+    "static/media/sstp-paper.pdf": "/static/media/sstp-paper.9ab83b64.pdf",
     "static/media/tylerkim.png": "/static/media/tylerkim.2cfad6da.png"
   },
   "entrypoints": [
     "static/js/runtime-main.554504a0.js",
-    "static/js/2.da3f62cb.chunk.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.7f077545.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.10d2618d.chunk.js"
+    "static/js/main.2bc9b1e2.chunk.js"
   ]
 }
